@@ -1,0 +1,29 @@
+site_name: Embedded Course Hardware
+site_description: Hardware list, images, wiring notes, and usage tips
+repo_url: https://github.com/Sashkoiv/embedded_course_hardware
+repo_name: Sashkoiv/embedded_course_hardware
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.instant
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Components:
+      - BME280: components/bme280.md
+      - SSD1306: components/ssd1306.md
