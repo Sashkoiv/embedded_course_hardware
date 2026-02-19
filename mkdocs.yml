@@ -26,7 +26,38 @@ nav:
   - Home: index.md
   - Components:
       - Base components:
-          - EESP32-S3 N16R8: components/esp32s3-n16r8.md
-      - Sensors:
+          - ESP32-S3 N16R8: components/esp32s3-n16r8.md
+          - STM32F411 Black Pill: components/black-pill.md
+          - ST-Link V2: components/st-link-v2.md
+          - Logic Analyzer: components/logic-analyzer.md
+          - USB-TTL Serial Adapter: components/usb-ttl-serial-adapter.md
+          - Multimeter: components/multimeter.md
+      - Passive components, Analogue sensors:
+          - LEDs: components/leds.md
+          - Resistors: components/resistors.md
+          - Thermistors: components/thermistors.md
+          - Photoresistor: components/photoresistor.md
+          - Potentiometers: components/potentiometers.md
+          - Capacitors: components/capacitors.md
+          - Diodes: components/diodes.md
+          - Transistors: components/transistors.md
+          - Tactile switches: components/tactile-switches.md
+      - Modules, Actuators, Digital sensors:
+          - Relay module: components/relay-module.md
+          - DC motor: components/DC-motor.md
+          - Servo motor: components/servo-motor.md
+          - Rotary encoder: components/rotary-encoder.md
+          - OLED display: components/oled-display.md
           - BME280: components/bme280.md
+          - DS18B20: components/ds18b20.md
+          - DS1307 RTC: components/ds1307.md
           - SSD1306: components/ssd1306.md
+          - Boozer: components/boozer.md
+      - Tools:
+          - Soldering iron: components/soldering-iron.md
+          - Solder LC60-1.00/0.05: components/solder.md
+          - Soldering flux NC559: components/soldering-flux.md
+          - Breadboard: components/breadboard.md
+          - Jumper wires: components/jumper-wires.md
+          - Celulose sponge: components/celulose-sponge.md
+
