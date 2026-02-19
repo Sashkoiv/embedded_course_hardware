@@ -25,5 +25,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Components:
-      - BME280: components/bme280.md
-      - SSD1306: components/ssd1306.md
+      - Base components:
+          - EESP32-S3 N16R8: components/esp32s3-n16r8.md
+      - Sensors:
+          - BME280: components/bme280.md
+          - SSD1306: components/ssd1306.md
