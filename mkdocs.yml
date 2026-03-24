@@ -29,6 +29,7 @@ nav:
           - ESP32-S3 N16R8: components/esp32s3-n16r8.md
           - STM32F411 Black Pill: components/black-pill.md
           - ST-Link V2: components/st-link-v2.md
+          - WeAct Mini Debugger: components/weact-st-link.md
           - Logic Analyzer: components/logic-analyzer.md
           - USB-TTL Serial Adapter: components/usb-ttl-serial-adapter.md
           - Multimeter: components/multimeter.md
