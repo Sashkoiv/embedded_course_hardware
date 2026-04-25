@@ -45,7 +45,7 @@ nav:
           - Tactile switches: components/tactile-switches.md
       - Modules, Actuators, Digital sensors:
           - Relay module: components/relay-module.md
-          - DC motor: components/DC-motor.md
+          - DC motor: components/dc-motor.md
           - Servo motor: components/servo-motor.md
           - Rotary encoder: components/rotary-encoder.md
           - OLED display: components/oled-display.md
