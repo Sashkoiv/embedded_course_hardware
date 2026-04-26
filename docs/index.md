@@ -56,6 +56,21 @@ The course mainly uses **ESP32-S3** and **STM32F411CEU6** boards. Most examples 
 
 ---
 
+### Lab Tools and Consumables
+
+| Tool | Description |
+|------|-------------|
+| [Soldering Iron GVDA GD300](components/soldering-iron.md) | USB-C temperature-controlled soldering iron for headers, wires, and repairs. |
+| [Solder CYNEL Sn60Pb40](components/solder.md) | Leaded solder wire used for beginner-friendly electronics soldering. |
+| [Soldering Flux NC559](components/soldering-flux.md) | Flux paste used to improve solder flow and repair solder joints. |
+| [Breadboard](components/breadboard.md) | Solderless prototyping board for temporary low-voltage circuits. |
+| [Jumper Wires](components/jumper-wires.md) | Dupont wires for breadboard, module, and development board connections. |
+| [Cellulose Sponge](components/tip-cleaning-sponge.md) | Damp soldering tip cleaner for removing residue and old solder. |
+| [Metal Wire Sponge](components/tip-cleaning-metal.md) | Dry soldering tip cleaner that avoids strong tip cooling. |
+| [Tip Cleaning Chemicals](components/tip-cleaning-chemicals.md) | Chemicals used for tip maintenance, residue cleaning, and tool care. |
+
+---
+
 ## How to Use These Pages
 
 Each component page includes practical information for lab work:

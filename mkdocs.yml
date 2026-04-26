@@ -55,8 +55,10 @@ nav:
           - Boozer: components/buzzer.md
       - Tools:
           - Soldering iron: components/soldering-iron.md
-          - Solder LC60-1.00/0.05: components/solder.md
+          - Solder CYNEL Sn60Pb40: components/solder.md
           - Soldering flux NC559: components/soldering-flux.md
           - Breadboard: components/breadboard.md
           - Jumper wires: components/jumper-wires.md
-          - Celulose sponge: components/celulose-sponge.md
+          - Cellulose sponge: components/tip-cleaning-sponge.md
+          - Metal wire sponge: components/tip-cleaning-metal.md
+          - Tip cleaning chemicals: components/tip-cleaning-chemicals.md
