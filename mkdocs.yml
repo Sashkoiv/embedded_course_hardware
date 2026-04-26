@@ -48,7 +48,6 @@ nav:
           - DC motor: components/dc-motor.md
           - Servo motor: components/servo-motor.md
           - Rotary encoder: components/rotary-encoder.md
-          - OLED display: components/oled-display.md
           - BME280: components/bme280.md
           - DS18B20: components/ds18b20.md
           - DS1307 RTC: components/ds1307.md
@@ -61,4 +60,3 @@ nav:
           - Breadboard: components/breadboard.md
           - Jumper wires: components/jumper-wires.md
           - Celulose sponge: components/celulose-sponge.md
-
