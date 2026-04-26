@@ -52,7 +52,7 @@ nav:
           - DS18B20: components/ds18b20.md
           - DS1307 RTC: components/ds1307.md
           - SSD1306: components/ssd1306.md
-          - Boozer: components/boozer.md
+          - Boozer: components/buzzer.md
       - Tools:
           - Soldering iron: components/soldering-iron.md
           - Solder LC60-1.00/0.05: components/solder.md
